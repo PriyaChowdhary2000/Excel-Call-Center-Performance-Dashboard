@@ -2,6 +2,10 @@
 
 This Excel dashboard provides a comprehensive overview of call center performance, enabling data-driven decision-making for call center management.
 
+Here's a visualization:
+
+![Visualization]("C:\Users\krish\Downloads\Excel-Call centre performance project image.jpg")
+
 ## Key Features
 
 *   **Overall Performance:** Displays total call count, total revenue, average call duration, and average customer satisfaction rating.
