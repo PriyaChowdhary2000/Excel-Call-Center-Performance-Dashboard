@@ -2,9 +2,6 @@
 
 This Excel dashboard provides a comprehensive overview of call center performance, enabling data-driven decision-making for call center management.
 
-Here's a visualization:
-
-![Visualization]("C:\Users\krish\Downloads\Excel-Call centre performance project image.jpg")
 
 ## Key Features
 
@@ -56,4 +53,3 @@ The dashboard includes a detailed analysis of individual representative performa
 ## Credits
 
 This project was inspired by and based on a tutorial by Chandoo on YouTube: [https://youtu.be/7QNgqq154gE?si=Ov-DRyIkxKArsxNn]
-
