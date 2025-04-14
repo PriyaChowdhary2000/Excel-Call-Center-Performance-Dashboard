@@ -51,5 +51,5 @@ The dashboard includes a detailed analysis of individual representative performa
 
 ## Credits
 
-This project was inspired by and based on a tutorial by Chandoo on YouTube: [https://youtu.be/7QNgqq154gE?si=IVgIRdhNDsilWf9a]
+This project was inspired by and based on a tutorial by Chandoo on YouTube: [https://youtu.be/7QNgqq154gE]
 
